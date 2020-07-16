@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "local5.ODataBackend", "ODataBackend/local5.ODataBackend.csproj", "{05830060-1087-4F88-9EE2-AD23E27A92D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "local5.Objects", "Objects/local5.Objects.csproj", "{068E7D08-589A-4D11-BA97-5804569C6BFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+Debug|Any CPU = Debug|Any CPU
+Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05830060-1087-4F88-9EE2-AD23E27A92D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05830060-1087-4F88-9EE2-AD23E27A92D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05830060-1087-4F88-9EE2-AD23E27A92D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05830060-1087-4F88-9EE2-AD23E27A92D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{068E7D08-589A-4D11-BA97-5804569C6BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{068E7D08-589A-4D11-BA97-5804569C6BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{068E7D08-589A-4D11-BA97-5804569C6BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{068E7D08-589A-4D11-BA97-5804569C6BFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
